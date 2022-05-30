@@ -1,6 +1,6 @@
 show databases;
 
-CREATE DATABASE sql_mini_project;
+-- CREATE DATABASE sql_mini_project;
 
 USE sql_mini_project;
 
